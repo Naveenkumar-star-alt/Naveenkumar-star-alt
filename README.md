@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently learing ....
 - 👯 I’m looking to collaborate on Frontend Projects
-- 📫 How to reach me **sagarreddy6066@gmail.com**
+- 📫 How to reach me **nk724654@gmail.com**
 
 <p align="left">
 </p>
