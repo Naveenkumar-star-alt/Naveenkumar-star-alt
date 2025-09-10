@@ -60,17 +60,17 @@
 </p>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Naveenkumar-star-alt&show_icons=true&locale=en&layout=compact" alt="Naveenkumar-star-alt" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=join-with-devil&show_icons=true&locale=en&layout=compact" alt="join-with-devil" />
 </p>
 
 
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Naveenkumar-star-alt&show_icons=true&locale=en" alt="Naveenkumar-star-alt" />
+<img src="https://github-readme-stats.vercel.app/api?username=join-with-devil&show_icons=true&locale=en" alt="join-with-devil" />
 </p>
 
 <div align="left">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naveenkumar-star-alt&radius=16&theme=react&area=true&order=5" height="300" alt="Naveenkumar-star-alt activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=join-with-devil&radius=16&theme=react&area=true&order=5" height="300" alt="join-with-devil activity graph" />
 </div>
 
 
