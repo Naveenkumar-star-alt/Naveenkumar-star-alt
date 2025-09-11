@@ -77,7 +77,8 @@
 ###
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=join-with-devil&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=join-with-devil&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/join-with-devil)
+
 
 ###
 
