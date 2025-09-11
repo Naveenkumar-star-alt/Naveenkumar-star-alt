@@ -77,7 +77,7 @@
 ###
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Naveenkumar-star-alt&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=join-with-devil&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ###
 
