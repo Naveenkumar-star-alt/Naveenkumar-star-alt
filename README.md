@@ -56,7 +56,7 @@
 # 📊 GitHub Stats:
 <img align="right" height="200" src="https://i.imgflip.com/65efzo.gif" />
 <p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveenkumar-star-alt" alt="Naveenkumar-star-alt" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=join-with-devil" alt="join-with-devil" />
 </p>
 
 <p align="left">
