@@ -66,7 +66,7 @@
 
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=join-with-devil&show_icons=true&locale=en" alt="join-with-devil" />
+<img src="https://github-readme-stats.vercel.app/api?username=join-with-devil & show_icons=true&locale=en" alt="join-with-devil" />
 </p>
 
 <div align="left">
